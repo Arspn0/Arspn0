@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Aris Sopian</h1>
-<h3 align="center">I am a student, majoring in informatics engineering.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Aris+Sopian;Welcome+to+my+GitHub+profile!;Let's+create+something+awesome!)](https://git.io/typing-svg)
+<h3 align="center">I'm a student, majoring in informatics engineering.</h3>
 
 - 🌱 I’m currently learning **React Native, Flutter and others**
 
