@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I'm not an introvert, but I'm just shy and i love adventure so much**
 
-<p align="center"><img src="/Assets/coding-freak (1).gif" height="320" width="310"/></p>
+<p align="center"><img src="/Assets/cute-cat-white.gif" height="380" width="380"/></p>
 
 
 <hr>
