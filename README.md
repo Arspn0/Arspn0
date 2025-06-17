@@ -9,15 +9,6 @@
 
 <p align="center"><img src="/Assets/cute-cat-white.gif" height="370" width="370"/></p>
 
-
-<hr>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aris-sopian-9520a2246" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arissopian" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aaariss_9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaris_9" height="30" width="40" /></a>
-</p>
-
 <hr>
 
 <h3 align="center">Languages & Framework:</h3>
