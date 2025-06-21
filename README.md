@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arissopian@gmail.com**
 
-- ⚡ Fun fact **I'm not an introvert, but I'm just a shy person and i love adventure soo much**
+- ⚡ Fun fact **I'm not an introvert, but I'm just a shy person who loves adventure so much.**
 
 <p align="center"><img src="/Assets/cute-cat-white.gif" height="370" width="370"/></p>
 
@@ -25,10 +25,18 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+<hr>
+
+<h3 align="center">Database:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+<hr>
 
 <h3 align="center">Software & Tools:</h3>
 <p align="center">
